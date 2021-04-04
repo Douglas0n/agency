@@ -2,7 +2,7 @@
 ## _Exemplo de landing page_
 
 
-Repositório privado para hospedagem em github pages.
+Repositório para hospedagem em github pages.
 
 Recursos:
 
